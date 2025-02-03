@@ -62,5 +62,4 @@ test.describe('Teachers Polls Tests', () => {
     const allPollsButton = page.getByRole('button', { name: 'All Polls' });
     await expect(allPollsButton).toBeVisible();
   });
-
 });
