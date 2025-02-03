@@ -1,0 +1,216 @@
+/* General Layout */
+.admin-poll-container {
+  padding: 2rem;
+}
+
+.admin-poll-layout {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 2rem; /* Space between the three sections */
+  width: 100%;
+}
+
+/* Poll Section Styling */
+.admin-poll-section {
+  background-color: #e8f5e9; /* Light green for sections */
+  flex: 1;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  display: flex;
+  flex-direction: column;
+}
+
+.poll-section h1,
+.poll-section h2,
+.poll-section h4 {
+  color: #388e3c; /* Dark green for headings */
+  margin-bottom: 1rem;
+  font-weight: bold; /* Bolder text for headings */
+}
+
+.poll-section h4 {
+  margin-top: 2rem;
+}
+
+/* Scrollable Sections */
+.admin-poll-scrollable {
+  overflow-y: auto;
+  max-height: 500px; /* Set height for scrollable areas */
+  padding-right: 1rem;
+}
+
+.admin-poll-scrollable::-webkit-scrollbar {
+  width: 8px;
+}
+
+.admin-poll-scrollable::-webkit-scrollbar-thumb {
+  background-color: #a5d6a7; /* Light green scrollbar */
+  border-radius: 8px;
+}
+
+.admin-poll-scrollable::-webkit-scrollbar-thumb:hover {
+  background-color: #66bb6a; /* Darker green on hover */
+}
+
+/* Create Poll Section */
+.admin-poll-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.admin-poll-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.admin-poll-label {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #388e3c;
+  margin-bottom: 0.5rem;
+}
+
+.admin-poll-input,
+.admin-poll-select {
+  padding: 0.5rem;
+  font-size: 1rem;
+  font-weight: bold; /* Bolder text inside inputs */
+  border: 1px solid #c8e6c9; /* Light green border */
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+.admin-poll-input:focus,
+.admin-poll-select:focus {
+  border-color: #66bb6a; /* Darker green border on focus */
+}
+
+.admin-poll-submit {
+  background-color: #388e3c; /* Dark green button */
+  color: #ffffff; /* White text */
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.admin-poll-submit:hover {
+  background-color: #66bb6a; /* Lighter green */
+  transform: scale(1.1); /* Enhanced zoom on hover */
+}
+
+.admin-poll-submit:active {
+  background-color: #2e7d32; /* Even darker green */
+}
+
+/* All Polls Section */
+.admin-poll-items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.admin-poll-item {
+  background-color: #ffffff; /* White background for poll items */
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.admin-poll-item:hover {
+  transform: translateY(-5px); /* Lift effect */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+  font-weight: bold; /* Bolder text on hover */
+}
+
+.admin-poll-item-title {
+  font-size: 1.2rem;
+  font-weight: bold; /* Bold title text */
+  color: #388e3c;
+}
+
+.admin-poll-item-description {
+  color: #555555;
+  font-weight: bold; 
+  text-align: justify;
+}
+
+.admin-poll-item-date,
+.admin-poll-item-status {
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  font-weight: bold; /* Bold status and date */
+}
+
+.admin-poll-item-status.open {
+  color: #66bb6a; /* Open status in green */
+}
+
+.admin-poll-item-status.closed {
+  color: #e53935; /* Closed status in red */
+}
+
+.admin-poll-view-details {
+  margin-top: 1rem;
+  background-color: #66bb6a; /* Light green button */
+  color: #ffffff;
+  font-weight: bold; /* Bold button text */
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.admin-poll-view-details:hover {
+  background-color: #388e3c; /* Darker green */
+  transform: scale(1.1); /* Enhanced zoom on hover */
+}
+
+/* Poll Details Section */
+.admin-poll-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.admin-poll-table th,
+.admin-poll-table td {
+  text-align: justify;
+  padding: 0.75rem;
+  border: 1px solid #c8e6c9; /* Light green border */
+  font-weight: bold; /* Bolder table text */
+}
+
+.admin-poll-table th {
+  background-color: #66bb6a; /* Header background */
+  color: #ffffff; /* White text */
+}
+
+.admin-poll-table td {
+  background-color: #ffffff; /* White for cells */
+}
+
+.admin-poll-vote-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.admin-poll-vote-item {
+  background-color: #e8f5e9; /* Light green */
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font-weight: bold; /* Bolder text for vote items */
+}

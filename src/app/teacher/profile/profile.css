@@ -1,0 +1,283 @@
+/* General page styling */
+.teacher-profile-page {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  min-height: 100vh;
+}
+
+/* Main container with two equal sections */
+.teacher-profile-main-container {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+  max-width: 1200px;
+}
+
+/* Left section: Profile details and complaint submission */
+.teacher-profile-content,
+.teacher-profile-previous-complaints {
+  flex: 1;
+  background: linear-gradient(135deg, #4ecdc4,#ff6b6b );
+  border-radius: 10px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  min-height: 450px;
+}
+
+/* Header styles */
+.teacher-profile-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #c6e1c6;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.teacher-profile-header h1 {
+  font-size: 1.5rem;
+  color: #2d572c; /* Dark green */
+}
+
+.teacher-profile-home-link {
+  font-size: 0.9rem;
+  color: #218838;
+  background-color: #ccff00;
+  padding: 5px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bolder;
+  transition: color 0.3s ease;
+}
+
+.teacher-profile-home-link:hover {
+  color: #1b6d30;
+  
+}
+
+/* Profile image */
+.teacher-profile-image {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.teacher-profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: #e4d4d4;
+  border: 3px solid #85c785; /* Medium green */
+  object-fit: cover;
+}
+
+/* Profile details */
+.teacher-profile-container {
+  background: linear-gradient(to bottom right, #0d540d, #fffb00);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+/* Table Styling */
+.teacher-profile-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  background: rgb(204, 250, 208);
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.teacher-profile-table td {
+  padding: 12px;
+  border-bottom: 1px solid #e0e0e0;
+  text-align: left;
+  font-size: 16px;
+  color: #333;
+}
+
+.teacher-profile-table tr:last-child td {
+  border-bottom: none;
+}
+
+/* Profile Edit Button */
+.teacher-profile-edit-button {
+  margin-top: 15px;
+  padding: 10px 15px;
+  background: #6c63ff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
+}
+
+.teacher-profile-edit-button:hover {
+  background: #574bdb;
+  transform: scale(1.05);
+}
+
+
+/* Complaint form */
+.teacher-profile-complaint-form {
+  margin-top: 20px;
+}
+
+.teacher-profile-complaint-input {
+  width: 95%;
+  min-height: 80px;
+  padding: 10px;
+  border: 1px solid #c6e1c6;
+  border-radius: 5px;
+  font-size: 1rem;
+  resize: none;
+  background-color: #f5fff5;
+  color: #2d572c;
+}
+
+.teacher-profile-complaint-input:focus {
+  outline: none;
+  border: 1px solid #4caf50;
+  box-shadow: 0 0 5px #85c785;
+}
+
+.teacher-profile-comp-submit-button {
+  margin-top: 10px;
+  padding: 10px 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 35%;
+  transition: background-color 0.3s ease;
+}
+
+.teacher-profile-submit-button:hover {
+  background-color: #3d8b40;
+}
+
+/* Right section: Previous complaints */
+.teacher-profile-previous-complaints {
+  min-width: 600px;
+  padding: 20px;
+  background-color: #d4fbcc; /* Soft off-white */
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.12);
+}
+
+/* Complaint List */
+.teacher-profile-complaint-list {
+  list-style: none;
+  padding: 0;
+  max-height: 600px;
+  overflow-y: auto;
+  background-color: #d5c0ba;
+  padding: 20px;
+}
+
+/* Individual Complaint Item */
+.teacher-profile-complaint-item {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.teacher-profile-complaint-item:hover {
+  transform: scale(1.02);
+}
+
+/* Complaint Card */
+.teacher-profile-complaint-card {
+  background-color: #fff4e6; /* Soft peach */
+  padding: 15px;
+  border-radius: 10px;
+  margin-right: 60px;
+  border-left: 5px solid #ff7700; /* Vibrant orange */
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.teacher-profile-complaint-card:hover {
+  background-color: #ffddb3; /* Warm pastel orange */
+  transform: translateX(5px);
+}
+
+/* Complaint Date */
+.teacher-profile-complaint-date {
+  font-weight: bold;
+  color: #d35400; 
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #c4ecc8;
+  text-align: right;
+}
+
+/* Complaint Text */
+.teacher-profile-complaint-text {
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: justify;
+  color: #5a2e00; /* Dark brown */
+}
+
+/* Reply Card */
+.teacher-profile-reply-card {
+  background-color: #e3f7ff; /* Soft sky blue */
+  padding: 12px;
+  border-radius: 10px;
+  margin-left: 60px;
+  border-right: 5px solid #0077cc; /* Deep ocean blue */
+  text-align: justify;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.teacher-profile-reply-card:hover {
+  background-color: #c6ecff; /* Lighter blue */
+  transform: translateX(-5px);
+}
+
+/* Reply Text */
+.teacher-profile-reply-text {
+  font-size: 18px;
+  color: #0047ab; /* Rich blue */
+}
+
+/* No Complaints Message */
+.teacher-profile-no-complaints {
+  text-align: center;
+  font-size: 16px;
+  color: #777;
+  font-style: italic;
+}
+
+/* Scrollbar Styling */
+.teacher-profile-complaint-list::-webkit-scrollbar {
+  width: 8px;
+}
+
+.teacher-profile-complaint-list::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, #ff7700, #ffcc00); /* Orange-Gold gradient */
+  border-radius: 4px;
+}
+
+.teacher-profile-complaint-list::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(45deg, #ff5500, #ffaa00); /* Darker gradient on hover */
+}
+
+/* Hover Effect for Complaint and Reply */
+.teacher-profile-complaint-card:hover,
+.teacher-profile-reply-card:hover {
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+}
