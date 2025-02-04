@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1f4"
+  },
+  "title": "Annual General Meeting 2025",
+  "description": "The CUET Teachers' Association is proposing the scheduling of the Annual General Meeting (AGM) for the year 2025. This meeting will be an important event for all faculty members, where we will discuss the association's activities over the past year, review budget allocations, and plan the initiatives for the upcoming academic session. The AGM will also provide a platform to vote on several policy changes, such as adjustments to faculty roles, the implementation of new teaching methods, and the development of the university’s academic strategy. The meeting aims to foster collaboration among the faculty and ensure the smooth functioning of CUET as an educational institution.",
+  "lastDate": "2025-03-01T23:59:59.000Z",
+  "__v": 4,
+  "createDate": {
+    "$date": "2025-01-31T16:25:13.336Z"
+  },
+  "noVote": [],
+  "status": "open",
+  "yesVote": [
+    "Saadman Sakib",
+    "Annesha Das",
+    "Rashedur Rahman",
+    "Md Al Mamun Provath"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1f5"
+  },
+  "title": "Seminar on AI and Machine Learning",
+  "description": "CUET is considering hosting a large-scale seminar focused on Artificial Intelligence (AI) and Machine Learning (ML), which are among the most rapidly developing fields in technology today. The proposed seminar will be an opportunity for both faculty and students to engage with leading experts in the field, learn about cutting-edge developments in AI and ML, and discuss how these technologies can be integrated into our academic curriculum. Key topics will include AI ethics, machine learning algorithms, and the impact of AI on future careers. The goal is to promote research collaboration and foster an environment where teachers and students can actively participate in the ever-evolving world of technology and innovation.",
+  "lastDate": "2025-02-15T23:59:59.000Z",
+  "__v": 3,
+  "createDate": {
+    "$date": "2025-01-31T16:25:20.239Z"
+  },
+  "noVote": [
+    "Annesha Das"
+  ],
+  "status": "open",
+  "yesVote": [
+    "Saadman Sakib",
+    "Rashedur Rahman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1f6"
+  },
+  "title": "New Admission Policy 2025",
+  "description": "The CUET Teachers' Association is proposing significant changes to the university's admission policy for the year 2025. This includes adjustments to the weightage given to entrance exams, modifications to the existing quota system for admissions, and the introduction of a new merit-based admission process for postgraduate courses. These changes aim to make the admission process more transparent, equitable, and aligned with international standards. The poll will address concerns regarding the fairness of the existing system and explore potential solutions for enhancing diversity and inclusion within the university's student body. Faculty members are encouraged to vote and provide feedback on the proposed changes.",
+  "lastDate": "2025-02-28T23:59:59.000Z",
+  "__v": 3,
+  "createDate": {
+    "$date": "2025-01-31T16:25:14.721Z"
+  },
+  "noVote": [
+    "Rashedur Rahman"
+  ],
+  "status": "open",
+  "yesVote": [
+    "Saadman Sakib",
+    "Annesha Das"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1f7"
+  },
+  "title": "Research Grant Allocation 2025",
+  "description": "CUET is looking to allocate research grants for various interdisciplinary projects that aim to solve real-world problems and advance academic knowledge. This poll will determine the guidelines for distributing funds for these grants, including the selection of eligible projects, the evaluation process, and the amount of funding each research initiative will receive. The research grants are intended to support both faculty-led and student-led projects in areas such as environmental sustainability, medical research, technology development, and more. The aim is to encourage collaboration between different departments and create an environment that nurtures innovative ideas that can contribute to the university’s growth and reputation.",
+  "lastDate": "2025-01-25T23:59:59.000Z",
+  "__v": 1,
+  "createDate": {
+    "$date": "2025-01-31T16:23:38.056Z"
+  },
+  "noVote": [],
+  "status": "closed",
+  "yesVote": []
+},
+{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1f8"
+  },
+  "title": "Policy on Campus Construction Projects",
+  "description": "The CUET Teachers' Association is proposing a policy to approve several new campus construction projects, aimed at improving both academic and recreational facilities. These projects will include new classrooms, lecture halls, research centers, and sports facilities. Additionally, the construction plan will prioritize environmentally sustainable practices, ensuring that the buildings are energy-efficient and contribute to the overall aesthetic of the campus. The poll will seek faculty approval for these projects and will also involve discussions on the allocation of the required funds, the timeline for completion, and how these new facilities will benefit both students and faculty members. Faculty participation in this poll is crucial to ensure that the construction plans align with the broader educational goals of CUET.",
+  "lastDate": "2025-01-10T23:59:59.000Z",
+  "__v": 1,
+  "createDate": {
+    "$date": "2025-01-31T16:23:38.056Z"
+  },
+  "noVote": [],
+  "status": "closed",
+  "yesVote": []
+},
+{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1f9"
+  },
+  "title": "Online Learning Tools Adoption",
+  "description": "As part of CUET's ongoing efforts to improve the quality of education and adapt to changing learning environments, the university is considering adopting new online learning tools. These tools will be used to enhance both teaching and learning experiences, offering faculty and students a range of resources such as interactive course materials, virtual classrooms, and assessment tools. The proposed tools include platforms for live lectures, asynchronous learning, discussion boards, and collaborative projects. This poll will ask faculty members to vote on whether to implement these tools in the next academic session and to provide their input on the best tools for their departments. The poll will also explore the logistics of training faculty and students to use these tools effectively.",
+  "lastDate": "2025-02-05T23:59:59.000Z",
+  "__v": 3,
+  "createDate": {
+    "$date": "2025-01-31T16:25:23.662Z"
+  },
+  "noVote": [
+    "Saadman Sakib"
+  ],
+  "status": "open",
+  "yesVote": [
+    "Annesha Das",
+    "Rashedur Rahman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1fa"
+  },
+  "title": "Teaching Load Reduction Policy",
+  "description": "CUET is proposing a policy that aims to reduce teaching loads for senior faculty members to allow them more time to focus on research and academic development. The proposed changes will involve a reevaluation of the existing teaching load distribution, with the goal of creating a more balanced workload across departments. By reducing the teaching load for senior professors, CUET aims to encourage greater academic research output and improve the quality of instruction. The policy also seeks to address concerns regarding faculty burnout and workload-related stress. Faculty are asked to vote on whether this policy should be implemented and to provide suggestions on how to best structure the new load distribution system.",
+  "lastDate": "2025-01-18T23:59:59.000Z",
+  "__v": 1,
+  "createDate": {
+    "$date": "2025-01-31T16:23:38.056Z"
+  },
+  "noVote": [],
+  "status": "closed",
+  "yesVote": []
+},
+{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1fb"
+  },
+  "title": "Sustainable Campus Initiatives",
+  "description": "CUET is exploring several initiatives to make the campus more environmentally sustainable. This includes projects such as installing solar panels, implementing water conservation strategies, increasing green spaces, and reducing the carbon footprint of campus operations. The goal is to create a campus that not only provides a top-tier education but also sets an example for environmental responsibility. This poll will allow faculty members to vote on which sustainable initiatives should be prioritized, as well as offer suggestions for other projects that could contribute to CUET's sustainability goals. The proposed initiatives are part of a larger strategy to align CUET's operations with global standards for environmental responsibility and sustainability.",
+  "lastDate": "2025-03-15T23:59:59.000Z",
+  "__v": 3,
+  "createDate": {
+    "$date": "2025-01-31T16:25:09.682Z"
+  },
+  "noVote": [
+    "Saadman Sakib",
+    "Annesha Das",
+    "Rashedur Rahman"
+  ],
+  "status": "open",
+  "yesVote": []
+},
+{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1fc"
+  },
+  "title": "Faculty Conference on International Relations",
+  "description": "CUET is considering organizing a faculty conference focused on international relations, specifically looking at global diplomacy, conflict resolution, and international collaboration. The conference will provide an opportunity for CUET faculty members to discuss global political trends, share research findings, and explore opportunities for collaboration with international institutions. Topics will include the impact of globalization on education, international trade policies, and diplomatic relations between countries. The poll will ask faculty members whether they support the idea of hosting this conference and if they have any specific topics or speakers they would like to include. The conference aims to foster greater international academic collaboration and enrich CUET's academic offerings.",
+  "lastDate": "2025-02-20T23:59:59.000Z",
+  "__v": 3,
+  "createDate": {
+    "$date": "2025-01-31T16:25:17.359Z"
+  },
+  "noVote": [
+    "Saadman Sakib"
+  ],
+  "status": "open",
+  "yesVote": [
+    "Annesha Das",
+    "Rashedur Rahman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1fd"
+  },
+  "title": "Implementation of New Semester System",
+  "description": "CUET is considering the introduction of a new semester system for its postgraduate programs. This new system will include changes to the academic calendar, course duration, and assessment methods. Faculty members will be asked to vote on the potential benefits and drawbacks of this system, including how it will impact student learning, research opportunities, and faculty workload. The new semester system aims to offer more flexibility to students and faculty, create better alignment with international academic standards, and facilitate more diverse course offerings. This poll will play a crucial role in determining whether the new semester system should be adopted for the next academic year.",
+  "lastDate": "2025-02-10T23:59:59.000Z",
+  "__v": 3,
+  "createDate": {
+    "$date": "2025-01-31T16:25:21.766Z"
+  },
+  "noVote": [],
+  "status": "open",
+  "yesVote": [
+    "Saadman Sakib",
+    "Annesha Das",
+    "Rashedur Rahman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1fe"
+  },
+  "title": "Academic Integrity Policy Review",
+  "description": "CUET is reviewing its academic integrity policy, which governs issues such as cheating, plagiarism, and misconduct in academic settings. The review aims to ensure that the policy remains relevant, effective, and in line with current best practices in academic governance. Faculty members will be asked to vote on proposed changes to the policy, including clearer definitions of academic misconduct, stricter penalties for violations, and enhanced training for students and faculty on ethical academic practices. The review also seeks input on how the policy can be better communicated to students and how violations can be more effectively detected and addressed.",
+  "lastDate": "2025-01-30T23:59:59.000Z",
+  "__v": 1,
+  "createDate": {
+    "$date": "2025-01-31T16:23:38.056Z"
+  },
+  "noVote": [],
+  "status": "closed",
+  "yesVote": []
+},
+{
+  "_id": {
+    "$oid": "679cf9020939e2625453d1ff"
+  },
+  "title": "Scholarships for Research Scholars",
+  "description": "CUET is proposing the introduction of a new scholarship program aimed at supporting research scholars who are working on innovative projects. These scholarships will be awarded to postgraduate and Ph.D. students who demonstrate outstanding potential in their fields of study. The program will cover tuition fees, research expenses, and provide a stipend to the scholarship recipients. This poll will allow faculty members to vote on the criteria for awarding the scholarships, including the eligibility requirements, the selection process, and the amount of funding to be provided. The goal of the program is to encourage more students to pursue high-quality research and contribute to CUET’s reputation as a leader in academic excellence.",
+  "lastDate": "2025-03-25T23:59:59.000Z",
+  "__v": 3,
+  "createDate": {
+    "$date": "2025-01-31T16:25:07.368Z"
+  },
+  "noVote": [],
+  "status": "open",
+  "yesVote": [
+    "Saadman Sakib",
+    "Annesha Das",
+    "Rashedur Rahman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a146ff4169c0218bf382e1"
+  },
+  "title": "Test Poll",
+  "description": "This Test Poll is created by Test Admin",
+  "lastDate": {
+    "$date": "2025-02-06T00:00:00.000Z"
+  },
+  "status": "open",
+  "noVote": [],
+  "yesVote": [],
+  "createDate": {
+    "$date": "2025-02-03T22:45:19.067Z"
+  },
+  "__v": 0
+}]

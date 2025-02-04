@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "679cfe900939e2625453d20f"
+  },
+  "teacherName": "Annesha Das",
+  "complain": "The Wi-Fi in the library is extremely slow and unreliable, making it almost impossible to access any research material online. Many students have complained about their inability to use the e-books and journals we have subscriptions for. With online learning becoming increasingly important, the Wi-Fi speed needs to be upgraded immediately.",
+  "date": "2025-01-12T15:45:00.000Z",
+  "reply": "We apologize for the inconvenience caused. The IT team is already working on improving the Wi-Fi speed, and we expect the issue to be resolved within the next 48 hours. Thank you for your patience."
+},
+{
+  "_id": {
+    "$oid": "679cfe900939e2625453d210"
+  },
+  "teacherName": "Rashedur Rahman",
+  "complain": "There is an ongoing issue with the whiteboard markers in the seminar rooms. The markers run out too quickly, and sometimes we are forced to use dry markers that barely work. The boards themselves are also not cleaned properly, which makes writing and reading difficult for both students and teachers. This affects the quality of lessons.",
+  "date": "2025-01-14T09:10:00.000Z",
+  "reply": "Thank you for bringing this to our attention. New whiteboard markers have been ordered and should be delivered shortly. We are also scheduling a cleaning session for all the boards to ensure they are in good condition."
+},
+{
+  "_id": {
+    "$oid": "679cfe900939e2625453d212"
+  },
+  "teacherName": "Saadman Sakib",
+  "complain": "The cafeteria's food options have been quite limited lately, and many of the items are either overcooked or not fresh. As a teacher who spends long hours on campus, it’s important to have access to healthy and affordable food. I’ve received multiple complaints from both students and staff regarding this, and it’s become a growing concern.",
+  "date": "2025-01-18T13:00:00.000Z",
+  "reply": "We have communicated your feedback to the cafeteria management team, and they are reviewing the current menu. They are working to provide fresher options and will introduce new meals next week."
+},
+{
+  "_id": {
+    "$oid": "679cfe900939e2625453d213"
+  },
+  "teacherName": "Annesha Das",
+  "complain": "The parking lot near the main entrance is often overcrowded, and it becomes nearly impossible to find a spot during peak hours. This issue has been affecting both teachers and students, especially those who have back-to-back classes and are already running late. There needs to be better management of the parking spaces, and perhaps the expansion of the parking lot itself.",
+  "date": "2025-01-20T11:20:00.000Z",
+  "reply": "Thank you for raising this concern. We are currently exploring options to expand the parking area and improve the flow of vehicles during peak hours. We will update everyone on the progress in the coming weeks."
+},
+{
+  "_id": {
+    "$oid": "679cfe900939e2625453d214"
+  },
+  "teacherName": "Rashedur Rahman",
+  "complain": "The library’s online catalog is outdated, and many books that are listed as available are either missing or out of stock. This causes a lot of frustration among students and faculty who rely on this resource for research. It would be beneficial if the catalog could be updated regularly to reflect the current availability of books.",
+  "date": "2025-01-22T16:50:00.000Z",
+  "reply": "We are aware of the issue and have instructed the library team to update the online catalog. They are also conducting an inventory check to ensure the catalog matches the actual stock. This process should be completed by next month."
+},
+{
+  "_id": {
+    "$oid": "679cfe900939e2625453d215"
+  },
+  "teacherName": "Md Al Mamun Provath",
+  "complain": "The elevator in building B has been out of service for more than a week, which has caused significant inconvenience for those who have mobility issues or who need to travel between floors quickly. This is especially problematic during exams when many students and faculty need to access different floors frequently. The lack of an elevator disrupts the flow of activities in the building.",
+  "date": "2025-01-24T10:15:00.000Z",
+  "reply": "The repair work for the elevator is scheduled for tomorrow, and we anticipate the elevator will be operational by the end of the week. We apologize for the inconvenience caused."
+},
+{
+  "_id": {
+    "$oid": "679cfe900939e2625453d217"
+  },
+  "teacherName": "Annesha Das",
+  "complain": "The lighting in the lecture halls is too dim, which makes it difficult to read notes or project slides. It’s essential for the lights to be adjusted properly so that students can see clearly without straining their eyes. Additionally, the flickering lights in some areas of the building need to be fixed as they are distracting during lessons.",
+  "date": "2025-01-28T09:30:00.000Z",
+  "reply": "Thank you for your input. The facilities team is aware of the lighting issues and will conduct an inspection to ensure that all lights are working properly. Any malfunctioning lights will be replaced by the end of the week."
+},
+{
+  "_id": {
+    "$oid": "679cfe900939e2625453d218"
+  },
+  "teacherName": "Rashedur Rahman",
+  "complain": "The university’s website is not user-friendly and has several broken links, especially in the admissions and course registration sections. It’s extremely frustrating for new students and faculty to navigate through the site. The website needs a major overhaul to improve its usability and functionality.",
+  "date": "2025-01-30T11:10:00.000Z",
+  "reply": "We are currently working with the IT team to redesign the website. The improvements will focus on enhancing usability, fixing broken links, and ensuring a smooth user experience. We expect the update to go live next month."
+},
+{
+  "_id": {
+    "$oid": "679cfe900939e2625453d219"
+  },
+  "teacherName": "Md Al Mamun Provath",
+  "complain": "The seminar rooms often do not have enough chairs to accommodate all attendees. This leads to students being forced to stand or sit on the floor, which is not only uncomfortable but also unsafe. There should be sufficient seating for everyone, especially for large events and seminars.",
+  "date": "2025-02-01T13:45:00.000Z",
+  "reply": "We apologize for the inconvenience caused. We have placed an order for additional chairs for the seminar rooms, and they will be delivered in the next few days."
+},
+{
+  "_id": {
+    "$oid": "679cfe900939e2625453d21a"
+  },
+  "teacherName": "Saadman Sakib",
+  "complain": "The campus’s garbage collection system is inefficient, and trash bins are often overflowing, especially during peak hours. The unsanitary conditions not only create a bad impression but also attract pests. More regular waste collection and additional trash bins are needed across the campus.",
+  "date": "2025-02-03T10:20:00.000Z",
+  "reply": "We are currently working with the cleaning team to improve waste collection schedules. Additional trash bins will be placed in high-traffic areas by the end of this week."
+},
+{
+  "_id": {
+    "$oid": "679cff9f5da37976e5867679"
+  },
+  "teacherName": "Rashedur Rahman",
+  "complain": "The air quality in the computer lab is poor, likely due to the lack of proper ventilation. It gets stuffy in there, and sometimes the smell from the air conditioning is unpleasant. It's important to have good air quality to ensure the health and comfort of both students and faculty.",
+  "reply": "Waiting For Reply......",
+  "date": {
+    "$date": "2025-01-31T16:51:43.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a145cd85258a07b00bbc7e"
+  },
+  "teacherName": "Test Person",
+  "complain": "Complain From Tester",
+  "reply": "Waiting For Reply......",
+  "date": {
+    "$date": "2025-02-03T22:40:13.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a1ad0fec7fbd63c9b0fc56"
+  },
+  "teacherName": "Test Person",
+  "complain": "Unique Complain By Test Person.",
+  "reply": "Unique Reply By Test Admin",
+  "date": {
+    "$date": "2025-02-04T06:00:47.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a1b8adec7fbd63c9b0fca9"
+  },
+  "teacherName": "Test Person",
+  "complain": "Complain-1738651819700",
+  "reply": "Waiting For Reply......",
+  "date": {
+    "$date": "2025-02-04T06:50:21.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a1bc0bec7fbd63c9b0fd1e"
+  },
+  "teacherName": "Test Person",
+  "complain": "Complain-5230",
+  "reply": "Waiting For Reply......",
+  "date": {
+    "$date": "2025-02-04T07:04:43.842Z"
+  },
+  "__v": 0
+}]
