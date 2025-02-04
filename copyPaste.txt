@@ -1,8 +1,0 @@
-
-make multiple testcases from this system. 
-Here which component was clicked but not occured anything 
-take as toBeVisible() check. Selected Table Header should also need visibility check
-
- login should be done before each
-
- Give short Test heading. Every Heading should have Test word at last.
