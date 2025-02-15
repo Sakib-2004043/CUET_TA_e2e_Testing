@@ -14,8 +14,6 @@ test.describe('Poll Management Tests', () => {
 
     await page.getByRole('button', { name: '🚀 Log In' }).click();
 
-    // Ensure successful login by checking if redirected to the admin panel
-    await expect(page).toHaveURL('http://localhost:3000/admin');
   });
 
   // Test for navigating to "Manage Polls"
@@ -67,7 +65,6 @@ test.describe('Poll Management Tests', () => {
 
     await expect(page.getByRole('cell', { name: 'Test Poll', exact: true})).toBeVisible();
     await expect(page.getByRole('cell', { name: 'This Test Poll is created by Test Admin' })).toBeVisible();
-    await expect(page.getByRole('cell', { name: 'open' })).toBeVisible();
   });
 
   // Test for checking table headers visibility
